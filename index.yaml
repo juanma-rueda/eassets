@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dashboard:
+  - apiVersion: v1
+    appVersion: "2.0"
+    created: "2020-03-06T13:30:16.3372994+01:00"
+    description: A Helm chart for install dashboard on kubernetes
+    digest: 6cf00744b569a1df1f6d2b75149dd99fb8cc1f109e8b1499b3cae9bd781bdaad
+    name: dashboard
+    urls:
+    - dashboard-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-03-06T13:30:16.3353044+01:00"
